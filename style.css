@@ -112,7 +112,7 @@ html{
 
 .a-info{
 	width: 50%;
-	padding: 60px 10px;
+	padding: 60px 10px 60px 70px;
 	color: #000;
 }
 
@@ -128,14 +128,10 @@ html{
 
 .a-media{
 	width: 50%;
-	padding: 10px 20px;
+/* 	padding: 10px 20px; */
 	border-radius: 10px;
 }
 
-.a-media video{
-	width: 100%;
-	border-radius: 10px;
-}
 
 #menu::after{
 	content: "";
